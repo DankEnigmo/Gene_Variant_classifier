@@ -1,0 +1,23 @@
+# Ignore directories
+/annovar/
+/InterVar/
+/data/
+/venv/
+/scripts/
+/Graphs/
+
+# Ignore specific files
+annovar.latest.tar.gz
+ranodm.py
+
+# Bytecode and cache files (Python standard)
+__pycache__/
+/*.pyc
+*.pyo
+*.pyd
+*.log
+
+# VSCode or other IDE-specific files (optional)
+.vscode/
+.idea/
+.DS_Store
