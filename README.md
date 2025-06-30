@@ -18,7 +18,7 @@ This project provides a pipeline for classifying genetic variants using the ACMG
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/DankEnigmo/Gene_Variant_classifier.git
    cd Genomiki
    ```
 2. Install Python dependencies:
